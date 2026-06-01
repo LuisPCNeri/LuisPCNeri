@@ -1,6 +1,6 @@
 ### GitHub Stat
 
 <div align="center">
-  <img align="left" height="175em" src="https://github-readme-stats-alpha-lovat.vercel.app/api?username=LuisPCNeri&show_icons=true&theme=dracula&locale=en" alt="LuisPCNeri" />
-  <img align ="left" height="175em" src="https://github-readme-stats-alpha-lovat.vercel.app/api/top-langs?username=LuisPCNeri&show_icons=true&theme=dracula&locale=en&layout=compact&exclude_repo=Proj-ITW,Proj-Mas,AED_Proj1,AED_Proj2" alt="LuisPCNeri" />
+  <img align="left" height="175em" src="https://github-readme-stats-alpha-lovat.vercel.app/api?username=LuisPCNeri&show_icons=true&theme=radical&locale=en" alt="LuisPCNeri" />
+  <img align ="left" height="175em" src="https://github-readme-stats-alpha-lovat.vercel.app/api/top-langs?username=LuisPCNeri&show_icons=true&theme=radical&locale=en&layout=compact&exclude_repo=Proj-ITW,Proj-Mas,AED_Proj1,AED_Proj2" alt="LuisPCNeri" />
 </div>
