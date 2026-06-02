@@ -1,7 +1,6 @@
 # Luís Neri
 
-2nd-year Software Engineering student at the DETI [UA](https://www.ua.pt/), Portugal.
-My interests lean towards systems programming, game development, and software architecture.
+2nd-year Software Engineering student at DETI [UA](https://www.ua.pt/).
 
 ---
 
