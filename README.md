@@ -34,8 +34,8 @@ Rust, Zig, and Go — broadening my understanding of systems languages.
 ### GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats-alpha-lovat.vercel.app/api?username=LuisPCNeri&show_icons=true&theme=radical&locale=en" alt="LuisPCNeri" />
-  <img height="175em" src="https://github-readme-stats-alpha-lovat.vercel.app/api/top-langs?username=LuisPCNeri&show_icons=true&theme=radical&locale=en&layout=compact&exclude_repo=Proj-ITW,Proj-Mas,AED_Proj1,AED_Proj2,github-readme-streak-stats,Concurrent-HTTP-Server,FBD_APF,CBD,Linux-Recycle-Bin-System" alt="LuisPCNeri" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=LuisPCNeri&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=nightowl" alt="LuisPCNeri" />
+  <img height="175em" src="https://github-readme-stats-alpha-lovat.vercel.app/api/top-langs?username=LuisPCNeri&show_icons=true&theme=nightowl&locale=en&layout=compact&exclude_repo=Proj-ITW,Proj-Mas,AED_Proj1,AED_Proj2,github-readme-streak-stats,Concurrent-HTTP-Server,FBD_APF,CBD,Linux-Recycle-Bin-System" alt="LuisPCNeri" />
 </div>
 
 ---
